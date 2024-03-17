@@ -3,7 +3,7 @@ Here's a configuration I made and has been thoroughly tested with PLA, and if yo
 To import the configuration, install the updated version of prusaslicer from here: https://www.prusa3d.com/en/page/prusaslicer_424/
 
 
-Then go to file --> import --> import config and select the file I attached to this email. 
+Then go to file --> import --> import config and select the .ini file
 ![image](https://github.com/D3Design/MK4-Prusaslicer-Configurations/assets/163762377/3c68a8b9-6927-4e76-85a9-82a2f3fe1035)
 
 
