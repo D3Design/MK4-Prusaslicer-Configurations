@@ -1,3 +1,6 @@
+UPDATE: I have heard from a few people that importing the config doesn't always work as detailed below, sometimes it imports as an edit to an existing profile. In that case, you must save the config and name it yourself. 
+
+
 Here's a configuration I made and has been thoroughly tested with PLA, and if you increase the hotend temperature it also works well for PETG. It is faster and prints higher quality than the standard settings. The stock settings limit hotend flow to 15mm^3/s, but I have found that PLA at 225 is capable of 20-22mm^3/s with the stock Prusa Nextruder and 0.4mm Nozzle.
 
 To import the configuration, install the updated version of prusaslicer from here: https://www.prusa3d.com/en/page/prusaslicer_424/
